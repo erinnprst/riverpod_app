@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-##NAMA : ERIN PRASTIWI
-##NIM  : H1101221009
+## NAMA : ERIN PRASTIWI
+## NIM  : H1101221009
 
 This project is a starting point for a Flutter application.
 
